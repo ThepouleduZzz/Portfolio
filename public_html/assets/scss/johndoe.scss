@@ -1,31 +1,12 @@
-/*!
-=========================================================
-* JohnDoe Landing page
-=========================================================
-
-* Copyright: 2019 DevCRUD (https://devcrud.com)
-* Licensed: (https://devcrud.com/licenses)
-* Coded by www.devcrud.com
-
-=========================================================
-
-* The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-*/
-
-
-// Core
 @import "vendors/bootstrap-4.3.1/functions";
 
-// custom variables
 @import "abstracts/variables";
-// bootstrap variables
 @import "vendors/bootstrap-4.3.1/variables";
 
 @import "vendors/bootstrap-4.3.1/mixins";
 @import "abstracts/mixins";
 
 
-// Bootstrap 4.3.1
 @import "vendors/bootstrap-4.3.1/root";
 @import "vendors/bootstrap-4.3.1/reboot";
 @import "vendors/bootstrap-4.3.1/type";
@@ -62,7 +43,6 @@
 @import "vendors/bootstrap-4.3.1/print";
 
 
-// custom 
 @import "base/typography";
 
 @import "components/breadcrumb";
