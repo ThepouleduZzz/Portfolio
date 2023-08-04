@@ -1,7 +1,7 @@
 {
   "name": "Hugo Peron",
   "version": "1.5.0",
-  "description": "An elegant responsive bootstrap 4.x theme.",
+  "description": "Portfolio responsive",
   "main": "gulpfile.js",
   "author": "Moi",
   "scripts": {
